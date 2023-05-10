@@ -1,4 +1,4 @@
-let myName="maria cristina"
+let myName="JOÃO CASTRO"
 
 function start(){
 
